@@ -1,0 +1,10 @@
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Model\bin\Debug\Model.dll
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Model\bin\Debug\Model.pdb
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Model\obj\Debug\Model.dll
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Model\obj\Debug\Model.pdb
+C:\Exercicio\Model\bin\Debug\Model.dll
+C:\Exercicio\Model\bin\Debug\Model.pdb
+C:\Exercicio\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Exercicio\Model\obj\Debug\Model.dll
+C:\Exercicio\Model\obj\Debug\Model.pdb

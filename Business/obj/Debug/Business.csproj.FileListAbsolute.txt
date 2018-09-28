@@ -1,0 +1,16 @@
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\bin\Debug\Business.dll
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\bin\Debug\Business.pdb
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\bin\Debug\Model.dll
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\bin\Debug\Model.pdb
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\obj\Debug\Business.dll
+C:\Users\fmoreno\Downloads\fmoreno_cit-dia-de-treinamento-f4bf997a7601\Exercicio\Business\obj\Debug\Business.pdb
+C:\Exercicio\Business\bin\Debug\Business.dll
+C:\Exercicio\Business\bin\Debug\Business.pdb
+C:\Exercicio\Business\bin\Debug\Model.dll
+C:\Exercicio\Business\bin\Debug\Model.pdb
+C:\Exercicio\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Exercicio\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Exercicio\Business\obj\Debug\Business.dll
+C:\Exercicio\Business\obj\Debug\Business.pdb
